@@ -1,0 +1,15 @@
+Öğrenci: Kaan Emre  Uğurlu 318 
+Ortalama: 90.0 
+Harf Notu:   AA  
+Öğrenci: Harun Uğurlu 9626 
+Ortalama: 80.0 
+Harf Notu:   BA  
+Öğrenci: Mehmet Faik 652 
+Ortalama: 86.0 
+Harf Notu:   AA  
+Öğrenci: Faruk Tekin 619 
+Ortalama: 43.0 
+Harf Notu:   FD  
+Öğrenci: Mehmet Kurt 542 
+Ortalama: 62.0 
+Harf Notu:   CC  

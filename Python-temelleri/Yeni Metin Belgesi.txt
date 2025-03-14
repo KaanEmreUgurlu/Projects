@@ -1,0 +1,3 @@
+Integer=tam sayıları ifade eder
+Float=Ondalıklı sayıları ifade eder
+# ekelediğiniz satırı bir yorum satırı haline getirir ve program çalıştığında o satır çalışmaz.

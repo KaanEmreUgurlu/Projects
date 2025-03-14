@@ -1,0 +1,9 @@
+ls=ilgili klasör içinde olan bütün dosyaları karşımıza çıkartır aynı zamanda alternatifi olan "dir" komutu sadece windowsda çalışır
+cls=ekranı temize çıkartır
+cd..=alt kalsöre geçiş yapar
+mkdir=seçtiğiniz klasör içinde bir klasör oluşturur.
+echo $null=seçtiğiniz klasör içerisnde bir dosya oluşturur
+del= seçtiğiniz dosyayı siler
+rmdir=bir klasörü silmek istersen kullanaman gereken komut
+python ya da py = dosyayı çalıştırır.
+/n=print yaptığınız ifadeyi alt satıra atar
